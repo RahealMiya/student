@@ -11,7 +11,7 @@ export class ViewstudentComponent implements OnInit {
 
   ngOnInit(): void {
   }
-  data=[{"name":"Rahul","age":23,"photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8__Nzyv7MNSIA71YRqKt0rPoqEiSiZMZBOw&usqp=CAU"},
+  data=[{"name":"Remya","age":23,"photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8__Nzyv7MNSIA71YRqKt0rPoqEiSiZMZBOw&usqp=CAU"},
   {"name":"Miya","age":20,"photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8__Nzyv7MNSIA71YRqKt0rPoqEiSiZMZBOw&usqp=CAU"},
   {"name":"Akshaya","age":20,"photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8__Nzyv7MNSIA71YRqKt0rPoqEiSiZMZBOw&usqp=CAU"},
   {"name":"Sona","age":20,"photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8__Nzyv7MNSIA71YRqKt0rPoqEiSiZMZBOw&usqp=CAU"},
